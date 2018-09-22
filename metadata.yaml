@@ -1,0 +1,25 @@
+_repo: Hellenism-in-Asia-Minor_55728
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brown, Carrol N.
+    gutenberg_agent_id: '48480'
+    url: http://www.gutenberg.org/2009/agents/48480
+creator:
+  author:
+    agent_name: Dieterich, Karl
+    gutenberg_agent_id: '48479'
+    url: http://www.gutenberg.org/2009/agents/48479
+description: ''
+gutenberg_issued: '2017-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hellenism in Asia Minor
+url: http://www.gutenberg.org/ebooks/55728
