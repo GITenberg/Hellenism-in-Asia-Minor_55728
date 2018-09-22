@@ -1,16 +1,21 @@
 _repo: Hellenism-in-Asia-Minor_55728
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Brown, Carrol N.
     gutenberg_agent_id: '48480'
     url: http://www.gutenberg.org/2009/agents/48480
+covers:
+- cover_type: archival
+  image_path: 55728-h/images/cover.jpg
 creator:
   author:
     agent_name: Dieterich, Karl
     gutenberg_agent_id: '48479'
     url: http://www.gutenberg.org/2009/agents/48479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55728#Hellenism-in-Asia-Minor
 gutenberg_issued: '2017-10-10'
 gutenberg_type: Text
 identifiers:
